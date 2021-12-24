@@ -1,0 +1,2 @@
+# Word-Autocomplete-with-N-Grams-Model-and-TF-IDF
+Creates Trigram-model and TF-IDF model from any corpus in the “corpus” folder with different documents. Predict the next word in a sentence by calculating the Linear Interpolation using the Trigram-model. At the end of a sentence calculates the Cosine Similarity using the TF-IDF model to find the document that is most similar to the sentence so far. 
