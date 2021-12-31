@@ -7,6 +7,8 @@ Creates N-Gram model and TF-IDF model from any corpus in the “corpus” folder
 Run `main.py` to run the application.
 All file imports are in `main.py` and `auto_complete_and_TF_IDF.py`.
 
+All corpus are from https://www.english-corpora.org/corpora.asp
+
 ## Features
 
 - Given any two words, predicts the next word. Shows the top 3 words with the highest probability.
