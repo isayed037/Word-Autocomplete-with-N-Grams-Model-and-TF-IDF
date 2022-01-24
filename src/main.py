@@ -1,9 +1,8 @@
 """
 #! TODO:
+#!  - Make "START_SYMBOL", "END_SYMBOL", and "ALL_MODEL_NAME" variables the user can change. 
+#! - Work on documents_frequency.py
 #! - Work on path_to_files.py
-#! - Video Docs
-#! - Upload to Github
-#! - Test which files can be uploaded on v11 version
 
 Predicts the next word in a sentence by calculating the Linear Interpolation using the Trigram-model. At the end of a sentence calculates the Cosine Similarity using the TF-IDF model to find the document that is most similar to the sentence so far.
 
